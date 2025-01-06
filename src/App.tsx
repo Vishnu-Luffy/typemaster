@@ -7,7 +7,7 @@ function App() {
     <>
      <div className="flex justify-center items-center">
     <Button>
-         hello wrold
+         hello world....
          </Button>
          <CardWithForm/>
 
